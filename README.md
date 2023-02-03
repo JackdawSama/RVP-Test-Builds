@@ -2,7 +2,7 @@
 ## Introduction
 RVP is a mispelled acronym of a game idea which I refer to as "Reverse Vampire Survivors" but the right definition of it would be is : "It is a  cookie clicker rogue-like". This repo contains the test builds and proof of concepts before I go into production with my game.
 
-Builds tagged V0.01 are all abstraction builds meant to explore the systems and features which might make it to the prototype later.
+Builds in V0.01 branch are all abstraction builds meant to explore the systems and features which might make it to the prototype later.
 
 ## Build V0.01.1
 - Updated UI for the game. Better visual hierarchy.
