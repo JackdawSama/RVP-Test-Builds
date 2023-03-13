@@ -31,6 +31,6 @@ This is a feature complete build and later additions would be extremely minor fe
 - Enemy spawner imeplemented
 - Enemy spawning made more organic so units spawned swarms avatar from all sides instead of set spawn points that are cycled(for more info on this check Wiki)
 
-###Known Bugs
+### Known Bugs
 - After the avatar gets corrupted or dies the respawn of avatar requires hitting the respawn avatar button twice instead of once. Still debugging this. 
 - The spawned corrupted unit fails to pull refernce from the previous avatar and set its stats, also fails to take damage and die after its HP is depleted.
