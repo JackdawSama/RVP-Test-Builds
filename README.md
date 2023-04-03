@@ -12,5 +12,10 @@ RVP is a mispelled acronym of a game idea which I refer to as "Reverse Vampire S
 
 Though there's is no scoring system the player is supposed to reduce the number of units lost.
 
+## Controls
+1. Use A or D to move left or right.
+2. Use Left Mouse Button to fire.
+3. Move cursor to make the projectile travel in desired direction.
+
 ### Known Bugs
 The player assumes control of more than one unit at a time. This at times causes the player to switch units even before their unit in focus dies due to another non-focused unit(buggy unit) either colliding with the hero or the hero's projectile.
