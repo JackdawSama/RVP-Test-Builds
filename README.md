@@ -8,6 +8,9 @@ RVP is a mispelled acronym of a game idea which I refer to as "Reverse Vampire S
 3. With more time the screen becomes crowded with a lot of units and it necessary that the player uses the curving ability to successfully navigate their projectile to hit the hero.
 4. Every time a defender dies, the player assumes control of a new defender(this is indicated by a White Circle) and continues to chip away at the "hero".
 5. If the defender is hit by the hero's projectile or comes in contact with the hero, they're are destroyed.
+6. The run ends when the player successfully brings the hero's HP down to zero.
+
+Though there's is no scoring system the player is supposed to reduce the number of units lost.
 
 ### Known Bugs
 The player assumes control of more than one unit at a time. This at times causes the player to switch units even before their unit in focus dies due to another non-focused unit(buggy unit) either colliding with the hero or the hero's projectile.
