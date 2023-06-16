@@ -9,4 +9,4 @@ Check branches for builds and their details.
 
 This repo was set up during the time when I wasn't too familiar with setting up Git Releases and I continued using this instead of doing releases.
 
-**Latest Build** : 
+**Latest Build** : V1.0 - ShowcaseBuild
